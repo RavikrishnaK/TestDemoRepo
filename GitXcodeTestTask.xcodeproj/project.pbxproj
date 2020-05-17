@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8F240B4A247172E100C11CC7 /* SecodVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F240B49247172E100C11CC7 /* SecodVC.swift */; };
 		8F9608FF24711EE100935BE9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F9608FE24711EE100935BE9 /* AppDelegate.swift */; };
 		8F96090124711EE100935BE9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F96090024711EE100935BE9 /* SceneDelegate.swift */; };
 		8F96090324711EE100935BE9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F96090224711EE100935BE9 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8F240B49247172E100C11CC7 /* SecodVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecodVC.swift; sourceTree = "<group>"; };
 		8F9608FB24711EE100935BE9 /* GitXcodeTestTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitXcodeTestTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F9608FE24711EE100935BE9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8F96090024711EE100935BE9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				8F9608FE24711EE100935BE9 /* AppDelegate.swift */,
 				8F96090024711EE100935BE9 /* SceneDelegate.swift */,
 				8F96090224711EE100935BE9 /* ViewController.swift */,
+				8F240B49247172E100C11CC7 /* SecodVC.swift */,
 				8F96090424711EE100935BE9 /* Main.storyboard */,
 				8F96090724711EE400935BE9 /* Assets.xcassets */,
 				8F96090924711EE400935BE9 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				8F96090324711EE100935BE9 /* ViewController.swift in Sources */,
 				8F9608FF24711EE100935BE9 /* AppDelegate.swift in Sources */,
 				8F96090124711EE100935BE9 /* SceneDelegate.swift in Sources */,
+				8F240B4A247172E100C11CC7 /* SecodVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
